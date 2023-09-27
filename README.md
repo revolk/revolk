@@ -23,6 +23,8 @@
 ### Connect with Me :
 
 <a href="[https://www.linkedin.com/in/ramy-mohamed2023](https://www.linkedin.com/in/ramy-mohamed2023/)" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20Al%20Sorogy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/ramy-mohamed2023](https://www.linkedin.com/in/ramy-mohamed2023/)" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20Al%20Sorogy-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/ramy-mohamed2023](https://www.linkedin.com/in/ramy-mohamed2023/)" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20Al%20Sorogy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
