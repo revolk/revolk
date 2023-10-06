@@ -14,7 +14,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a Seasoned Software Engineer, I'm continuously honing my skills and staying up-to-date with the latest advancements in technology.
-- 💬 Feel free to discuss topics related to C, C++, Python, JavaScript, HTML, CSS, or any aspect of web development,
+- 💬 Feel free to discuss topics related to C, C++, Python, JavaScript, HTML, CSS, Embedded Systems, IOT or any aspect of web development,
    and I'll be happy to engage in insightful conversations or provide assistance based on my experience in the field.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
