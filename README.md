@@ -13,7 +13,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 As a seasoned software engineer, I'm continuously honing my skills and staying up-to-date with the latest advancements in technology.
+- 👨‍💻 As a Seasoned software engineer, I'm continuously honing my skills and staying up-to-date with the latest advancements in technology.
 - 💬 Feel free to discuss topics related to JavaScript, HTML, CSS, or any aspect of web development,
    and I'll be happy to engage in insightful conversations or provide assistance based on my experience in the field.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
@@ -27,12 +27,16 @@
 <a href="[https://www.linkedin.com/in/ramy-mohamed2023](https://www.linkedin.com/in/ramy-mohamed2023/)" target="_blank"><img src="https://img.shields.io/badge/-Ramy%20Al%20Sorogy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=1572B6)&nbsp;
+![java script](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
 
